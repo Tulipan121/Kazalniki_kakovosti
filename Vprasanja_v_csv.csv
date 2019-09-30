@@ -1,0 +1,556 @@
+Stolpec1
+{01} Delovanje rodovih organov
+{01-01} Opredelitev funkcij [3]
+[[0]] Funkcije in vloge nimajo doloèenih odgovornosti - funkcije in vloge obstajajo samo z imenom, v rodu ni strinjanja, kakšne so odgovornosti posameznih funkcij in vlog , doloèa se jih sproti.
+[[1]] Obstaja strinjanje o odgovornostih po funkcijah in vlogah, vendar niso zapisane. Tiste, ki so zapisane npr. s statutom, ne upoštevamo.
+[[2]] Zapisane so odgovornosti za nekatere funkcije (npr. s statutom) in vloge. Zapisanih odgovornosti ne upoštevamo v celoti.
+[[3]] Zapisane so vse odgovornosti za vse funkcije in vloge za normalno delovanje rodu. Zapisane odgovornosti v celoti upoštevamo.
+[[4]] Vse funkcije in vloge za normalno delovanje rodu in vodenje akcij ter njihove odgovornosti so jasno doloèene in zapisane. Zapisane odgovornosti v celoti upoštevamo.
+{01-02} Sestajanje rodove uprave [5]
+[[0]] Rodova uprava se sestaja manj kot enkrat na 3 mesece.
+[[2]] vsaj 1 krat na 3 mesece
+[[3]] vsaj enkrat meseèno
+[[4]] vsaj na 14 dni
+{01-03} Izvedba sestankov rodove uprave [2]
+[[0]] Sestanki RU niso vodeni, ni pripravljenega dnevnega reda,
+[[1]] Sestanki RU so vodeni, ni pripravljenega dnevnega reda
+[[2]] Sestanki RU so vodeni, pripravljenega dnevnega reda se ne drži, èlani niso pripravljeni na sestanek
+[[3]] Sestanki RU so vodeni, potekajo po dnevnem redu a se zaradi obširnih razprav zavleèejo
+[[4]] Sestanki RU so vodeni, potekajo po dnevnem redu in so èasovno uèinkoviti, udeleženci so pripravljeni, razprave, ki terjajo veè èasa se rešujejo preko manjših interesnih (delovnih) skupin, ki izsledke predstavijo celotni upravi
+{01-04} Spremljanje opravljenega dela [3]
+[[0]] Rodova uprava ne naèrtuje dela in ne preverja, ali je bilo opravljeno.
+[[1]] Rodova uprava naèrtuje delo, vendar ne preverja, èe je bilo opravljeno
+[[2]] Rodova uprava ne naèrtuje dela, vendar sproti preverja, katero delo je opravljeno
+[[3]] Rodova uprava naèrtuje delo in preverja, èe je bilo opravljeno, vendar preredko, da bi lahko ukrepalo preventivno
+[[4]] Rodova uprava ima razvit sistem naèrtovanja dela in preverjanja opravljenega dela, ki ga uporablja ves èas
+{01-05} Udeležba na sreèanjih rodove uprave [3]
+[[0]] Udeležba na sreèanjih je premajhna, da bi zagotavljala kakovostno delovanje
+[[2]] vsaj 50 % udeležba na sestankih in posvetih rodove uprave
+[[4]] vsaj 70 % udeležba na sestankih in posvetih rodove uprave
+{01-06} Podajanje mnenj v rodovi upravi [4]
+[[0]] Vprašanja, razširjena debata ali drugaèna mnenja so nezaželeni.
+[[1]] V debato niso vkljuèeni vsi, možnost za podajanje lastnega mnenja si moraš izboriti.
+[[2]] Podajanje mnenj je sicer možno, vendar ni vzpodbujano.
+[[3]] Podajanje mnenj je sicer zaželeno in obèasno spodbujano, vendar se jih ne pridobiva sistematièno.
+[[4]] Aktivno se išèe mnenja vseh, pri èemer se za to uporablja veè razliènih metod. Vrednotimo stopnjo participacije in naèin komunikacije.
+{01-07} Pokritost funkcij [2]
+[[0]] Rodova uprava nima pokritih vseh funkcij potrebnih za delovanje, veèina prostovoljcev ima veè funkcij hkrati.
+[[1]] Rodova uprava ima pokrite vse funkcije potrebne za delovanje, veèina prostovoljcev ima veè funkcij hkrati.
+[[2]] Rodova uprava ima pokrite vse funkcije, nekateri prostovoljci imajo veè funkcij hkrati.
+[[3]] Rodova uprava nima pokritih vseh funkcij, vsak prostovoljec pa ima zgolj eno funkcijo.
+[[4]] Rodova uprava ima pokrite vse funkcije, vsak prostovoljec ima zgolj eno funkcijo.
+{01-08} Cilji rodu [4]
+[[0]] Vodstvo rodu si ne zastavi ciljev za prihajajoèe šolsko leto.
+[[1]] Vodstvo rodu se pogovarja o prihodnjem šolskem letu, vendar si ne zastavi konkretnih ciljev rodu
+[[2]] Vodstvo rodu si na zaèetku šolskega leta zada cilje za prihajajoèe leto.
+[[3]] Vodstvo rodu na zaèetku šolskega leta naredi evalvacijo ciljev prejšnjega leta in si zada cilje za prihajajoèe leto.
+[[4]] Vodstvo rodu na zaèetku šolskega leta naredi evalvacijo ciljev prejšnjega leta in si zada cilje za prihajajoèe leto in naredi plan, kako jih bodo dosegli.
+{01-09} Cilji rodu - spremljanje [4]
+[[0]]: Vodstvo rodu ne spremlja napredka pri doseganju zastavljenih ciljev za prihajajoèe šolsko leto.
+[[1]]: Vodstvo rodu enkrat letno preveri napredek pri doseganju zastavljenih ciljev.
+[[3]]: Vodstvo rodu dvakrat letno preveri napredek pri doseganju zastavljenih ciljev.
+[[4]]: Vodstvo rodu trikrat letno preveri napredek pri doseganju zastavljenih ciljev.
+{01-10} Starost naèelnika in starešine [3]
+[[0]] Naèelnik < 18 let, starešina < 25 ali 40 let < starešina
+[[1]] 18 < naèelnik < 20 let, starešina < 25 ali 40 let < starešina
+[[2]] Naèelnik < 20 let, 25 < starešina < 40 let
+[[3]] 20 let < naèelnik < 30, starešina < 25 ali 40 let < starešina
+[[4]] 20 let < naèelnik < 30, 25 < starešina < 40 let
+{01-11} Naèelništvo v zadnjih petih letih [3]
+[[0]] V zadnjih petih letih nismo zamenjali naèelnika.
+[[2]] V zadnjih petih letih smo zamenjali 3 ali veè naèelnikov.
+[[4]] V zadnjih petih letih smo enkrat ali dvakrat zamenjali naèelnika.
+{01-12} Naèelnik opravlja funkcijo vodnika [1]
+[[0]] Da
+[[4]] Ne
+{01-13} Naèelnik ima vodstveno funkcijo na obmoèni ali nacionalni ravni [1]
+[[0]] Da
+[[4]] Ne
+{01-14} Naèelniki družin [3]
+[[0]] Naèelniki družin nimajo opravljenega Wood Badge teèaja. Sami so še vedno vodniki.
+[[2]] Naèelniki družin nimajo opravljenega Wood Badge teèaja. Sami niso veè vodniki.
+[[3]] Naèelniki družin imajo opravljen Wood Badge teèaj. Sami so še vedno vodniki.
+[[4]] Naèelniki družin imajo opravljen Wood Badge teèaj. Sami niso veè vodniki.
+{01-15} Izobraženost kadra [3]
+[[0]] Noben èlan rodove uprave za svojo funkcijo nima primernega znanja
+[[1]] Veèina èlanov rodove uprave za svojo funkcijo nima primernega znanja
+[[2]] Nekateri èlani rodove uprave imajo primerno znanje za opravljanje svoje funkcije, nekateri ne.
+[[3]] Veèina èlanov rodove uprave imajo primerno znanje za opravljanje svoje funkcije
+[[4]] Vsi èlani rodove uprave imajo primerno znanje za opravljanje svoje funkcije
+{01-16} Sestajanje nadzornega odbora rodu [2]
+[[0]] Nadzorni odbor se ne sestaja
+[[1]] Nadzorni odbor se sestane enkrat letno
+[[2]] Nadzorni odbor se sestaja po potrebi
+[[3]] Nadzorni odbor se sestaja enkrat na pol leta
+[[4]] Nadzorni odbor se sestaja štirikrat letno
+{01-17} Baza èlanstva [1]
+[[0]] Rod ne uporablja baze èlanstva in podatkov v njej ne vpisuje pravilno
+[[1]] Rod uporablja bazo èlanstva, vendar podatkov o èlanih ne preverja
+[[2]] Rod ne uporablja baze èlanstva, vendar podatke v njej zgolj enkrat letno pregleda in popravi
+[[3]] Rod uporablja bazo èlanstva, podatke v njej pa enkrat letno pregleda in popravi
+[[4]] Rod uporablja bazo èlanstva, podatke v njej pa pregleda in popravi veèkrat letno oz. sproti
+{02} Program za mlade
+{02-01} Letni tabor [5]
+[[0]] Rod nima letnega taborjenja.
+[[2]] Rod ima letno taborjenje za starostni veji MÈ, GG, ne pa tudi PP.
+[[3]] Rod ima vsako leto taborjenje za starostni veji MÈ in GG, vèasih tudi za PP
+[[4]] Rod ima vsako leto taborjenje za vse starostne veje (MÈ, GG in PP)
+{02-02} Druge veèdnevne akcije [3]
+[[0]] Rod nima drugih veèdnevnih akcij.
+[[1]] Rod ima eno drugo veèdnevno akcijo za eno izmed starostnih vej.
+[[3]] Rod ima eno drugo veèdnevno akcijo za starostni veji MÈ in GG
+[[4]] Rod ima vsaj eno drugo veèdnevno akcijo za vsako starostno vejo (MÈ, GG in PP)
+{02-03} Rodov izlet [2]
+[[0]] Rod v zadnjih treh letih ni organiziral rodovega izleta.
+[[1]] Rod je v zadnjih 3 letih enkrat organiziral rodov izlet.
+[[2]] Rod je vsaj dvakrat v zadnjih treh letih organiziral rodov izlet v svoji okolici.
+[[3]] Rod je vsaj dvakrat v zadnjih treh letih organiziral rodov izlet izven svoje okolice.
+[[4]] Rod vsako leto organizira rodov izlet izven svoje okolice.
+{02-04} Vodov izlet [4]
+[[0]] V rodu ne izvajamo vodovih izletov.
+[[1]] Èeprav drugi vodi redno izvajajo vodove izlete, vsaj en vod v zadnjih treh letih ni imel vodovega izleta.
+[[3]] Veèina vodov (veè kot 70%) vsako leto izvede samostojen vodov izlet.
+[[4]] Vsi vodi vsako leto izvedejo samostojen vodov izlet.
+{02-05} Program v naravi (ali vsaj zunaj) [4]
+[[0]] Vseeno nam je, kje izvajamo program
+[[2]] Ob ugodnih okolišèinah se trudimo del programa izvajati v naravi (vsaj 40 %)
+[[3]] Ob ugodnih okolišèinah se trudimo veèji del programa izvajati v naravi (vsaj 60 %)
+[[4]] Kljub okolišèinam se trudimo kar najveèji del programa izvajati v naravi (vsaj 70 %)
+{02-06} Zasledovanje vzgojnih ciljev [4]
+[[0]] Naèrtovalci in izvajalci programa ne zasledujejo vzgojnih ciljev
+[[1]] Izvajalci sami zasledujejo zgolj nekatere vzgojne cilje brez sodelovanja z naèrtovalci programa
+[[2]] Naèrtovalci programa v sodelovanju z izvajalci programa zasledujejo zgolj nekatere vzgojne cilje
+[[3]] Izvajalci sami zasledujejo vse vzgojne cilje brez sodelovanja z naèrtovalci programa
+[[4]] Naèrtovalci programa v sodelovanju z izvajalci programa zasledujejo vzgojne cilje
+{02-07} Poznavanje vzgojnih ciljev in vzgojnega ideala [2]
+[[0]] Noben prostovoljec ne pozna vzgojnih ciljev in vzgojnega ideala
+[[1]] Nekateri prostovoljci poznajo vzgojne cilje in vzgojni ideal
+[[2]] Vodniki poznajo vzgojne cilje in vzgojni ideal
+[[3]] Izvajalci programa poznajo vzgojne cilje in vzgojni ideal
+[[4]] Vsi prostovoljci poznajo vzgojne cilje in vzgojni ideal, po katerem se ravnajo.
+{02-08} Taborniški pristop [5]
+[[0]] Pri izvajanju programa ne upoštevamo taborniškega pristopa
+[[2]] Pri izvajanju programa delno upoštevamo taborniški pristop
+[[4]] Pri izvajanju programa upoštevamo taborniški pristop
+{02-09} Metode dela [4]
+[[0]] Metoda dela s èlani ostaja skozi leta zelo podobna.
+[[2]] Metoda dela se spremeni na prehodu iz MÈ v GG, vendar ne naèrtovano ali primerno.
+[[3]] Metoda dela se naèrtovano in primerno spremeni ob prehodu iz MÈ v GG
+[[4]] Metode dele se naèrtovano in primerno spremenijo ob prehodu iz MÈ v GG ter ob prehodu iz GG v PP
+{02-10} Èlani sooblikujejo program [3]
+[[0]] Èlani ne sooblikujejo lastnega programa.
+[[1]] Èlani redko sooblikujejo lastni program.
+[[3]] Èlani sooblikujejo veèino delov svojega programa (npr. vodova sreèanja, akcije, taborjenje, zimovanje…).
+[[4]] Èlani sooblikujejo vse dele svojega programa.
+{02-11} Èlani vrednotijo program [2]
+[[0]] Èlani ne vrednotijo programa
+[[2]] Èlani vrednotijo samo nekatere dele programa
+[[3]] Èlani vrednotijo veèino delov svojega programa
+[[4]] Èlani vrednotijo vse dele svojega programa
+{02-12} Èlanom prilagojen program [2]
+[[0]] Vodnik ne spremlja osebnega napredka èlanov in ne prilagaja programa vsakemu posamezniku
+[[2]] Vodnik spremlja osebni razvoj èlanov, vendar program ni prilagojen vsakemu posamezniku
+[[4]] Vodnik spremlja osebni razvoj vsakega èlana in temu prilagaja tudi program
+{02-13} Cilji programskih akcij [3]
+[[0]] Programske akcije nimajo zastavljenih ciljev.
+[[1]] Programske akcije imajo zastavljene cilje, ki so zelo splošni ali niso primerni.
+[[2]] Veèje programske akcije imajo zastavljene specifiène cilje.
+[[3]] Vsaka programska akcija ima zastavljene specifiène cilje.
+[[4]] Vsaka programska akcija ima zastavljene specifiène cilje, ki so primerni za starostno skupino in sledijo zastavljenim vzgojnim ciljem.
+{02-14} Upoštevanje vrednotenj [2]
+[[0]] Pri naèrtovanju programa se ne upošteva vrednotenj iz preteklih let
+[[1]] Redko
+[[2]] V nekaterih primerih
+[[3]] V veèini primerov
+[[4]] Vedno
+{02-15} Vešèine oz. preizkušnje [3]
+[[0]] Èlani vešèin in preizkušenj ne usvojijo
+[[1]] Nekateri èlani (vsaj 30%) usvojijo vešèine oz. preizkušnje
+[[3]] Vsaj polovica èlanov (50%) vsako leto usvoji vsaj eno vešèino oz. preizkušnjo
+[[4]] Vsaj 90% èlanov vsako leto usvoji vsaj eno vešèino oz. preizkušnjo
+{02-16} Orodja PzM [2]
+[[0]] V rodu ne uporabljamo orodij PzM
+[[1]] V rodu uporabljamo vsaj 1 orodje PzM
+[[2]] V rodu uporabljamo vsaj 3 orodja PzM
+[[4]] V rod uporabljamo vsaj 5 orodij PzM, poznamo ostala in spremljamo prihod novih.
+{02-17} Udeležba na dogodkih [3]
+[[0]] Rod se ne udeležuje obmoènih, nacionalnih ali mednarodnih programskih dogodkov.
+[[1]] Rod se letno udeleži zgolj enega programskega dogodka na obmoèni ali nacionalni ravni.
+[[3]] Rod se letno udeleži vsaj enega programskega dogodka na obmoèni in enega na nacionalni ravni.
+[[4]] Rod se letno udeleži vsaj dveh obmoènih in enega nacionalnega programskega dogodka, v treh letih pa vsaj enega mednarodnega.
+{02-18} Vodnikov letni plan dela [3]
+[[0]] Vodniki nimajo letnega plana dela.
+[[1]] Nekateri vodniki imajo pripravljen letni plan dela.
+[[2]] Vsak vodnik ima pripravljen letni plan dela.
+[[3]] Veèina vodnikov ima pripravljen letni plan dela, ki ga sproti prilagaja in evalvira skupaj z naèrtovalcem.
+[[4]] Vsak vodnik ima pripravljen letni plan dela, ki ga sproti prilagaja in evalvira skupaj z naèrtovalcem.
+{02-19} Program PP [2]
+[[0]] V rodu ne izvajamo naèrtovanega in organiziranega programa PP
+[[2]] V rodu izvajamo aktivnosti za PP, vendar ne kot naèrtovan in organiziran program PP
+[[4]] V rodu izvajamo naèrtovan in organiziran program PP po smernicah Zveze tabornikov Slovenije
+{02-20} Programski rekviziti [1]
+[[0]] Rod nima posebnih programskih rekvizitov
+[[1]] Programske opreme zelo redko obnavljamo.
+[[2]] Programski rekviziti se kupuje priložnostno, ponavadi zgolj za namen ene akcije.
+[[3]] Priložnostno kupujemo programske rekvizite, ki nam lahko služi tudi dolgoroèno.
+[[4]] Rod vsako leto nameni del sredstev za nabavo programskih rekvizitov, ki omogoèa dolgoroèno kvalitetno izvajanje programa.
+{03} Vizija in strategija
+{03-01} Oblikovanje vizije [3]
+[[0]] Rod se z vizijo rodu ne ukvarja.
+[[1]] Vizijo rodu oblikujejo posamezni starejši èlani rodu.
+[[2]] Vizijo oblikuje rodova uprava.
+[[3]] Vizijo oblikujejo vsi prostovoljci v rodu.
+[[4]] V oblikovanje vizije se aktivno vkljuèi vse èlane rodu.
+{03-02} Potrjevanje vizije [3]
+[[0]] Rod se z vizijo rodu ne ukvarja.
+[[1]] Vizijo sprejme rodova uprava z navadno veèino
+[[2]] Vizijo sprejme obèni zbor z navadno veèino.
+[[4]] Vizija je z veè kot 75 % veèino sprejeta na obènem zboru
+{03-03} Obnavljanje vizije [3]
+[[0]] Rod nima svoje vizije.
+[[1]] Rod vizije ne obnavlja.
+[[2]] Rod vizijo obnavlja, a ne redno.
+[[3]] Rod vizijo obnavlja na vsakih pet let.
+[[4]] Rod vizijo obnavlja na vsake 3 leta.
+{03-04} Vsi èlani so seznanjeni z vizijo [1]
+[[0]] Ne
+[[1]] Da
+{03-05} Vsebina vizije [4]
+[[0]] Vizija ni skladna s taborniškimi vrednotami, ne odgovarja viziji ZTS / WOSM in ni prilagojena lokalnemu okolju.
+[[2]] Vizija je skladna s taborniškimi vrednotami
+[[4]] Vizija je skladna s taborniškimi vednotami, z vizijo ZTS / WOSM, a prilagojena na lokalne posebnosti.
+{03-06} Strategija delovanja [5]
+[[0]] Rod nima strategije za dosego vizije.
+[[2]] Rod si zastavi doloèene cilje, ki pa niso povezani z doseganjem vizije.
+[[4]] Rod ima strategijo za dosego vizije na razliènih podroèjih. Strategijo po potrebi prilagaja. Zastavlja si SMART cilje in jih spremlja.
+{03-07} Skladnost aktivnosti z lastno vizijo [3]
+[[0]] Program in aktivnosti rodu ne sledijo lastni viziji. Skladnosti se tudi ne preverja.
+[[2]] Skladnost programa z lastno vizijo se zasleduje, vendar se napredka ne preverja ali beleži.
+[[4]] Program in vse aktivnosti rodu sledijo viziji, kar tudi preverjamo in beležimo.
+{04} Institucionalne obveznosti
+{04-01} Statut in njegovo obnavljanje [5]
+[[0]] Statut rodu ni skladen z enotnimi naèeli organiziranosti društev tabornikov, kot jih opredeljuje statut ZTS. Statut se ne preglejuje in ne posodablja.
+[[2]] Statut rodu je skladen z enotnimi naèeli organiziranosti društev tabornikov, kot jih opredeljuje statut ZTS. Statut je bil na zadnje pregledan in posodobljen pred manj kot 10 leti.
+[[4]] Statut rodu je skladen z enotnimi naèeli organiziranosti društev tabornikov, kot jih opredeljuje statut ZTS. Statut je bil na zadnje pregledan in posodobljen pred manj kot 5 leti.
+{04-02} Skladnost delovanja s statutom [5]
+[[0]] Delovanje društva je v oèitnem neskladju z lastnim statutom.
+[[2]] Skladnost s statutom smo nazadnje preverili pred manj kot 3 leti.
+[[4]] Skladnost s statutom preverimo vsako leto in neskladja sproti odpravljamo.
+{04-03} Obèni zbor [5]
+[[0]] Obèni zbor imamo ob menjavi pomembnih funkcij
+[[2]] Obèni zbor imamo vsake 2 leti
+[[4]] Obèni zbor imamo vsako leto. Po potrebi imamo tudi izredni obèni zbor.
+{04-04} Obèni zbor je sklepèen [3]
+[[0]] Obèni zbor v zadnjih treh letih niti enkrat ni bil sklepèen
+[[2]] Obèni zbor v zadnjih treh letih enkrat ni bil sklepèen
+[[4]] Obèni zbor je bil v zadnjih treh letih vedno sklepèen
+{04-05} Finanèno poroèilo redno oddajamo na AJPES [5]
+[[0]] Poroèila na AJPES ne oddajamo
+[[2]] Poroèilo na AJPES oddajamo z zamudo
+[[4]] Poroèilo na AJPES oddajamo redno in pravoèasno
+{04-06} Udeležba na skupšèini ZTS [4]
+[[0]] Rod v nobeni obliki ni zastopan na skupšèini ZTS.
+[[1]] Rod za glasovanje na skupšèini poveri èlane iz drugih rodov ali rod na skupšèini ni zastopan vsako leto.
+[[2]] Naèelnik in starešina sta vsako leto prisotna na skupšèini ZTS, vendar slabše pripravljena.
+[[4]] Vsakoletna prisotnost naèelnika in starešine rodu na ZTS skupšèini. Nanjo se tudi ustrezno pripravita.
+{04-07} Rodova uprava o skupšèini ZTS [2]
+[[0]] Rodova uprava ne nameni èasa pripravam na skupšèino ZTS.
+[[4]] Vsaj en sestanek rodove uprave je namenjen pripravam na skupšèino ZTS.
+{04-08} Zakonodaja [5]
+[[0]] Nihèe v vodstvu rodu ne pozna zakona o prostovoljstvu, zakona o društvih, zakon o raèunovodstvu, GDPR, HACCP ter pravilnikov ZTS.
+[[2]] Vsaj ena oseba v rodovi upravi pozna zakon o prostovoljstvu, zakona o društvih, zakon o raèunovodstvu, GDPR, HACCP ter pravilnikov ZTS.
+[[4]] Rodova uprava pozna in deluje skladno z zakonom o prostovoljstvu, zakona o društvih, zakon o raèunovodstvu, GDPR, HACCP ter pravilnikov ZTS.
+{04-09} Èlanarina Zvezi tabornikov Slovenije [5]
+[[0]] Rod plaèuje zgolj minimalno število odvodov èlanarin potrebnih za registracijo rodu, èeprav je število èlanov rodu veèje.
+[[2]] Rod vsako leto plaèa odvod èlanarine za vsaj 80 % svojih èlanov.
+[[4]] Rod vsako leto plaèa odvod èlanarine na Zvezo tabornikov Slovenije za vse svoje èlane.
+{04-10} Rod redno opravlja svoje poroèevalske obveznosti [3]
+[[0]] Rod o svojem delovanju ne poroèa obmoèju in zvezi ter morebitnim drugim pomembnim deležnikom (obèini, ministrstvu, filantropiji, ...).
+[[2]] Rod o svojem delovanju obmoèju in zvezi ter morebitnim drugim pomembnim deležnikom ne poroèa redno in/ali z zamudo
+[[4]] Rod redno poroèa o svojem delovanju obmoèju in zvezi ter morebitnim drugim pomembnim deležnikom (spremembe v vodstvu, poroèila letnih taborjenj in zimovanj, vprašalniki in ankete).
+{04-11} Delegati rodu so prisotni na obmoènih sestankih [2]
+[[0]] Letnih posvetov in sestankov obmoèij se ne udeležujemo redno
+[[2]] Udeležimo se vseh letnih posvetov obmoèja, ne pa tudi vseh sestankov
+[[4]] Redno se udeležujemo vseh letnih posvetov in sestankov obmoèij
+{04-12} Prijava taborne izmene [5]
+[[0]] Rod ne prijavlja tabornih izmen
+[[1]] Rod prijavlja taborne izmene, vendar pomanjkljivo.
+[[2]] Rod prijavlja taborne izmene, vendar ne pravoèasno.
+[[4]] Rod vsakoletno do roka prijavi taborno izmeno
+{04-13} Pozivi ZTS [2]
+[[0]] Rod se na pozive ZTS ne odziva.
+[[1]] Rod se redko odzove na pozive ZTS.
+[[3]] Rod se veèinoma odzove na pozive ZTS.
+[[4]] Rod se vedno odzove na pozive ZTS, predvsem pri oblikovanjus skupnih politik in podajanju mnenj.
+{04-14} Sistem stalnih izboljšav [2]
+[[0]] Rodova uprava se analiz, naèrtovanja in izboljšav ne loteva sistematièno in periodno.
+[[2]] Rodova uprava vsakih nekaj let naredi svojo analizo in na podlagi ugotovitev naredi naèrt nadaljnega dela.
+[[3]] Rodova uprava vsako leto naredi svojo analizo in na podlagi ugotovitev naredi ali popravi naèrt nadaljnega dela.
+"[[4]] Rodova uprava vsako leto uporabi ""Kazalnike kvalitete delovanja"", s katerim dobi vpogled v svoje delo in na podlagi ugotovljenega pripravi ali popravi svoj naèrt dela."
+{05} Delo s prostovoljci
+{05-01} Prostovoljski dogovori [3]
+[[0]] Noben prostovoljec v rodu nima sklenjenega prostovoljskega dogovora
+[[1]] Prostovoljci v rodu imajo sicer sklenjene prostovoljske dogovore, v katerih pa niso jasno doloèene naloge in odgovornosti.
+[[2]] Nekateri prostovoljci v rodu ima sklenjene prostovoljske dogovore, v katerih so jasno doloèene naloge in odgovornosti.
+[[3]] Vsi prostovoljci v rodu imajo sklenjen prostovoljski dogovor, v katerih so jasno doloèene naloge in odgovornosti prostovoljca.
+[[4]] Vsi prostovoljci v rodu imajo sklenjen prostovoljski dogovor, v katerih so jasno doloèene naloge in odgovornosti prostovoljca. Dogovor se spremlja in vrednoti.
+{05-02} Mentorji in coachi [1]
+[[0]] Noben prostovoljec nima mentorja ali coacha
+[[2]] Nekateri prostovoljci imajo mentorja ali coacha
+[[3]] Veèina prostovoljcev ima mentorja ali coacha, s katerim se dobi vsaj 1 krat na leto.
+[[4]] Vsak prostovoljec ima svojega mentorja oziroma coacha, s katerim se dobi vsaj 2 krat na leto.
+{05-03} Osebni cilji [2]
+[[0]] Prostovoljci nimajo definiranih lastnih osebnih ciljev
+[[2]] Nekateri prostovoljci imajo definirane osebne cilje
+[[3]] Veèina prostovoljcev ima definirane osebne cilje
+[[4]] Vsak prostovoljec ima definirane letne osebne cilje, ki se jih spremlja in vrednoti.
+{05-04} Sooblikovanje programa [3]
+[[0]] Program za èlane rodu oblikujejo zgolj nekateri posamezniki rodu
+[[1]] Program za èlane rodu oblikujejo nekateri posamezniki rodu, mnenje pa lahko poda kdorkoli.
+[[2]] Program za èlane oblikujejo vsi vodniki skupaj
+[[3]] Program za èlane oblikujejo vsi izvajalci programa skupaj
+[[4]] Program za èlane sooblikujejo vsi izvajalci ob podpori naèrtovalcev
+{05-05} Spremljanje prostovoljskih ur [2]
+[[0]] Prostovoljci ne beležijo svojih prostovoljskih ur. Rod jih ne spremlja.
+[[1]] Rod sam oceni prostovoljske ure svojih prostovoljcev.
+[[2]] Zgolj nekateri prostovoljci beležijo / ocenijo svoje prostovoljske ure, na podlagi katerih rod sklepa na vse prostovoljce
+[[3]] Prostovoljci sami ocenijo svoje prostovoljske ure, rod pa jih spremlja
+[[4]] Vsak prostovoljec svoje prostovoljske ure sproti beleži, rod pa jih spremlja.
+{05-06} Maksimalno število prostovoljskih ur [1]
+[[0]] Prostovoljci nimajo doloèenega maksimalnega števila prostovoljskih ur. Rod vzpodbuja èim veèje število prostovoljskih ur.*
+[[2]] Dogovorjeno je maksimalno število prostovoljskih ur, ki je enako za vse. Rod se ne trudi, da prostovoljci tega ne bi prekoraèili.
+[[3]] Dogovorjeno je maksimalno število prostovoljskih ur, ki je enako za vse. Rod se trudi, da prostovoljci tega ne bi prekoraèili.
+[[4]] Z vsakim prostovoljcem posebej je dogovorjeno maksimalno število prostovoljskih ur, rod pa se zavzema, da prostovoljci tega ne prekoraèijo
+{05-07} Razporejanje dela [3]
+[[0]] Delo se razporeja po liniji najmanjšega odpora.
+[[1]] Veèino dela opravijo najbolj angažirani posamezniki.
+[[2]] Delo se razporeja tako, da vsi delajo približno enako.
+[[3]] Delo je med prostovoljce ustrezno razporejeno, vendar brez kritiène presoje, ali je vse delo res potrebno.
+[[4]] Delo se razporeja glede na: prioritete rodu, prostovoljske dogovore, z upoštevanjem pomembnosti in nujnosti ter z obzirom na maksimalno število prostovoljskih ur vseh posameznikov, uène priložnosti in želje posameznikov.
+{05-08} Razmerje med številom èlanov in številom prostovoljcev v preteklem letu. (R= (MÈ + GG) / (PP + RR)) [4]
+[[0]] R > 5
+[[2]] 5 > R > 3,5
+[[4]] R < 3,5
+{05-09} Zagotavljanje ustreznega kadra za izvajanje programa [4]
+[[0]] Poleg vodnikov rod nima drugih usposobljenih izvajalcev programa.
+[[1]] Rod ima usposobljene izvajalce programa, vendar jih ne zna primerno vkljuèiti v delovanje.
+[[2]] Usposobljeni izvajalci programa sodelujejo pri programskih aktivnostih, vendar ne na individualni ravni z vodniki
+[[4]] Poleg vodnikov ima rod usposobljene izvajalce programa na razliènih podroèjih, ki v sodelovanju z vodniki zagotavljajo pestre, varne in raznolike aktivnosti za èlane.
+{05-10} Uvajanje v prostovoljsko delo [3]
+[[0]] Prostovoljci v rodu niso primerno uvajani v prostovoljsko delo.
+[[1]] Zgolj nekateri prostovoljci so uvajani v prostovoljsko delo.
+[[3]] Rod vse prostovoljce, ki opravljajo s statutom doloèene funkcije, uvaja v delo.
+[[4]] Kjer je le mogoèe, nekdo prostovoljca uvaja v dogovorjeno prostovoljsko delo.
+{05-11} Financiranje izobraževanj [5]
+[[0]] Rod ne financira izobraževanj prostovoljcem za opravljanje dogovorjenega prostovoljskega dela.
+[[1]] Rod financira izobraževanja za opravljanje dogovorjenega prostovoljskega dela zgolj nekaterim prostovoljcem ali pa vsem izobraževanja financira zgolj delno.
+[[3]] Rod naknadno povrne vse stroške izobraževanj prostovoljcem, ko ti s prostovoljskim delom upravièijo plaèilo izobraževanja.
+[[4]] Vsem prostovoljcem je omogoèeno brezplaèno osnovno izobraževanje za potrebe opravljanja dogovorjenega prostovoljskega dela.
+{05-12} Obnavljanje znanja [2]
+[[0]] Manj kot 40 % prostovoljcev se po uspešnem zakljuèku osnovega izobraževanje nadalje ne izobražujejo.
+[[2]] Veè kot 40 % prostovoljcev se tudi po uspešnem zakljuèku osnovnega izobraževanja nadalje izobražuje.
+[[4]] Veè kot 80 % prostovoljcev se tudi po uspešnem zakljuèku osnovnega izobraževanja nadalje izobražujejo.
+{05-13} Aktivnosti za prostovoljce [3]
+[[0]] Rod nima akcij, namenjenih izkljuèno prostovoljcem.
+[[2]] Rod ima na leto nekaj akcij, ki so namenjene prostovoljcem, vendar so združene z akcijami za ostale èlane rodu.
+[[3]] Rod letno zagotovi vsaj 3 aktivnosti, namenjene izkljuèno prostovoljcem z namenom sprostitve (namen ni delo ali uèenje), glede na njihove želje.
+[[4]] Rod letno zagotovi vsaj 6 aktivnosti, namenjene izkljuèno prostovoljcem z namenom sprostitve (namen ni delo ali uèenje), glede na njihove želje.
+{05-14} Potrebe in želje po izobraževanjih [2]
+[[0]] Rod se izobraževanj udeležuje priložnostno in nenaèrtno.
+[[1]] Rod identificira zgolj potrebe, ne pa tudi želje po izobraževanjih.
+[[2]] Rod identificira potrebe in želje zgolj iz omejenega nabora izobraževanj. Med letom se dogovorjenega ne spremlja, zato se udeležba veèkrat odpove.
+[[4]] V rodu se redno (na zaèetku leta) identificira potrebe rodu in želje prostovoljcev po izobraževanjih. Med letom se spremlja, ali dogovorjeno še drži.
+{05-15} Upravljanje prostovoljskega dela [3]
+[[0]] Rod s èasom prostovoljcev ne upravlja. Rod ne zna napovedati, kdaj bo potreba po prostovoljskem delu veèja in kakšna bo njegova vrsta.
+[[2]] Rod zna napovedati, kdaj bo potreba po prostovoljnem delu veèja ali manjša in kakšno to delo bo. Tega aktivno ne usklajuje s svojimi prostovoljci.
+[[4]] Rod ve, koliko èasa je vsak prostovoljec pripravljen prostovoljno delati in kaj. Rod ve, kdaj bo potreboval veè ali manj prostovoljskega dela in kakšno to bo. Oboje aktivno usklajuje s svojimi prostovoljci.
+{05-16} Priznavanje prostovoljskega dela [4]
+[[0]] V rodu se prostovoljcem ne zahvalimo za opravljeno prostovoljsko delo.
+[[2]] V rodu se enkrat letno vsakemu prostovoljcu zahvalimo za opravljeno prostovoljsko delo.
+[[4]] V rodu se enkrat letno vsakemu prostovoljcu zahvalimo za opravljeno prostovoljsko delo in mu izdamo potrdilo o pridobljenih kompetencah.
+{06} Upravljanje s premožnenjem
+{06-01} Finanèni plan in finanèno poroèilo [5]
+[[0]] Rod nima ne letnega finanènega plana, niti finanènega poroèila.
+[[2]] Rod sicer naredi letni finanèni naèrt, ki pa ga tekom leta ne spremlja in sproti ne usklajuje. Rod ima letno finanèno poroèilo.
+[[4]] Rod ima letno javno dostopno bilanco stanja in poslovnega izzida, ki ju pravoèano odda na Ajpes. Pripravi letni finanèni plan, ki ga ustrezno spremlja in na koncu primerja s letnim finanènim poroèilom.
+{06-02} Finanèni naèrt in poroèilo za posamezne akcije [3]
+[[0]] Odgovorne osebe posamezne akcije ne pripravijo ne finanènega naèrta, niti finanènega poroèila.
+[[2]] Odgovorna oseba akcije naredi finanèni naèrt (na podlagi katerega je oblikovana cena akcije), ne pa tudi finanènega poroèila.
+[[4]] Odgovorna oseba akcije naredi finanèni naèrt akcije ter v dogovorjenem roku pripravi tudi finanèno poroèilo.
+{06-03} Investicijski naèrt [4]
+[[0]] Rodova uprava nima dolgoroènega naèrta veèjih stroškov in jasnega namena, za kaj bi denar, ki letno ostane od delovanja, porabila. Vsak veèji nakup je za rod lahko finanèno problematièen.
+[[1]] Rodova uprava nima dolgoroènega naèrta veèjih stroškov in jasnega namena, za kaj bi denar, ki letno ostane od delovanja, porabila. Veèji nakup za rod vseeno ne bi bil problematièen.
+[[4]] Rodova uprava naèrtuje veèje nakupe in stroške, ki se ne ponavljajo letno. Iz tega rodova uprava ve, koliko in za kaj na letni ravni mora ostati doloèena kolièina denarja.
+{06-04} Naèrt za pridobivanje sredstev (èlanarina, dohodnina, sponzorstva, donatorstva, razpisi) [4]
+[[0]] Rod ima samo en vir finanènih sredstev, s katerimi razpolaga in se ne trudi za pridobivanje veè razliènih virov, nima izdelane strategije pridobivanja virov.
+[[1]] Rod ima vsaj 2 razlièna vira sredstev s katerimi razpolagam, a se ne trudi za pridobitev novih.
+[[2]] Rod ima vsaj 2 razlièna vira sredstev s katerimi razpolaga in se trudi za pridobitev novih. Pridobivanje je priložnostno.
+[[4]] Rod ima vsaj 3 razliène vire sredstev, s katerimi lahko prosto razpolaga, ima jasno razdelano strategijo pridobivanja razliènih virov.
+{06-05} Èlanarina [3]
+[[0]] Èlanarina ni doloèena z dogovorjenim sistemom. Rodova uprava težko upravièi višino letne èlanarine.
+[[1]] Èlanarina ni doloèena z dogovorjenim sistemom, jo pa potrdi rodova uprava. Èlanarine je dostopna za èlane rodu, ne pa nujno enaka za vse.
+[[2]] Èlanarina je doloèena z dogovorjenim sistemom. Èlanarina je dostopna za vse èlane rodu, ne pa nujno enaka za vse.
+[[4]] Èlanarina je doloèena z dogovorjenim sistemom, ki omogoèa dolgoroèen razvoj rodu in je hkrati dostopna vsem èlanom, ni pa nujno enaka za vse.
+{06-06} Odgovornost ravnanja s financami [4]
+[[0]] Odgovornosti ravnanja s financami niso jasne. Zgolj ena odgovorna oseba lahko opravi veèji odliv denarja s tekoèega raèuna rodu.
+[[2]] Rodova uprava v naprej potrdi vse veèje stroške. Odliv s tekoèega raèuna je potrjen s strani ene odgovorne osebe.
+[[4]] Rodova uprava v naprej potrdi vse veèje stroške na podlagi finanènega plana ali predraèuna. Za odliv veèjih zneskov s tekoèega raèuna je potrebna potrditev vsaj dveh odgovornih oseb.
+{06-07} Vraèilo manjših stroškov [4]
+[[0]] Rod nima dogovora o povraèilu stroškov za normalno delovanje. Ti stroški niso v naprej najavljeni, potrebni raèuni pa so oddani prepozno za primerno raèunovodsko beleženje. Del stroškov, ki so potrebni za normalno delovanje, pokrijejo prostovoljci.
+[[3]] Èeprav interni dogovor ne obstaja, je veèina nakupov najavljenih v naprej, raèuni pa so oddani pravoèasno. Vsi stroški za normalno delovanje so v celoti povrnjeni.
+[[4]] Rod ima interni dogovor za vraèilo manjših stroškov, ki nastanejo pri normalnem delovanju (npr. za vodova sreèanja), vsi prostovoljci so z njim seznanjeni. V primeru spoštovanja dogovora so vsi stroški prostovoljcem v celoti povrnjeni do dogovorjenih rokov.
+{06-08} Prostor za sreèanja [5]
+[[0]] Vodova sreèanja se izvajajo v neprimernih prostorih.
+[[2]] Rod ima primeren prostor za izvajanje programa, ki pa ne zadostuje vsem potrebam in kapacitetam rodu.
+[[3]] Rod ima primeren prostor za izvajanje programa, ki zadostuje vsem potrebam in kapacitetam rodu. Prostori so dostopni veèino èasa.
+[[4]] Rod ima primeren prostor za izvajanje programa, ki zadostuje vsem potrebam in kapacitetam rodu. Prostori so vedno dostopni.
+{06-09} Rod ima letno inventuro [1]
+[[0]] Rod nima popisanih lastnih osnovnih sredstev.
+[[2]] Rod ima popisana lastna osnovna sredstva veèje vrednosti, inventure pa ne izvajajo.
+[[4]] Rod ima popisana lastna osnovna sredstva veèjih in manjših vrednosti, inventuro pa izvajajo vsaj na dve leti.
+{06-10} Servis opreme [3]
+[[0]] Rod ima veèjo kolièino neizpravne opreme, ki jo še vedno uporablja za svoje delovanje.
+[[1]] Rod ima veèjo kolièino neizpravne opreme, ki pa je ne uporablja za svoje delovanje.
+[[3]] Rod spremlja izpravnost opreme, ki jo uporablja ne glede na pretek življenjske dobe in poskrbi za ustrezen servis.
+[[4]] Rod redno spremlja izpravnost in življensko dobo opreme, ki jo uporablja in poskrbi za pravoèasen in ustrezen servis ali zamenjavo.
+{06-11} Skladišèenje opreme [3]
+[[0]] Prostor za skladišèenje opreme ni primeren, saj povzroèa škodo na opremi.
+[[2]] Rod ima skladišèe z omejenim dostopom, ki je primerno za shranjevanje opreme. Velikost skladišèa ne ustreza potrebam rodu.
+[[3]] Rod ima skladišèe z omejenim dostopom, ki je primerno za shranjevanje opreme. Velikost skladišèa ustreza potrebam rodu.
+[[4]] Rod ima dovolj veliko skladišèe s èasovno neomejenim dostopom, ki je primerno za shranjevanje opreme.
+{06-12} Izposoja opreme [3]
+[[0]] Rod nima odgovorne osebe, ki skrbi za opremo. Prostovoljcem oprema za normalno delovanje ni na razpolago. Rod ne vodi evidence o izposojeni opremi.
+[[1]] Rod nima odgovorne osebe, ki skrbi za opremo. Prostovoljcem oprema za normalno delovanje ni vedno na razpolago. Rod vodi evidenco o izposojeni opremi.
+[[2]] Rod ima odgovorno osebo za izposojo opreme, ki je ob najavi na voljo. Nima pa ažurne evidence o izposoji.
+[[3]] Rod ima ažurno evidenco izposoje opreme in gospodarja, ki nadzira njeno izposojo in pravilno uporabo. Izposoja opreme ni vedno možna.
+[[4]] Rod ima ažurno evidenco izposoje opreme in gospodarja, ki nadzira njeno izposojo in pravilno uporabo. Izposoja opreme je ob pravoèani najavi prostovoljcem vedno možna. Rod ima cenik za zunanjo izposojo.
+{07} Komunikacija
+{07-01} Dokument / dogovor o komuniciranju [3]
+[[0]] V rodu nimamo dogovora o komuniciranju.
+[[2]] V rodu imamo dogovor o komuniciranju, vendar ni aktualen.
+[[4]] Imamo dogovor o komuniciranju znotraj rodu, ki ga uporabljamo in enkrat letno pregledamo in popravimo.
+{07-02} Downstream komunikacija [3]
+[[0]] Informacije se ne prenašajo od Zveze tabornikov Slovenije ali obmoèja do naèelnika, naprej do prostovoljcev in nato do èlanov
+[[2]] Zgolj nekatere informacije se uspešno prenesejo od Zveze tabornikov Slovenije ali obmoèja do naèelnika, naprej do prostovoljcev in nato do èlanov
+[[4]] Informacije se uspešno prenašajo od Zveze tabornikov Slovenije ali obmoèja do naèelnika, naprej do prostovoljcev in nato do èlanov
+{07-03} Upstream komunikacija [3]
+[[0]] Informacje se neuspešno prenašajo od èlanov preko prostovoljcev do naèelnika ter naprej do obmoèja in Zveze tabornikov Slovenije
+[[2]] Zgolj nekatere informacje se uspešno prenesejo od èlanov preko prostovoljcev do naèelnika ter naprej do obmoèja in Zveze tabornikov Slovenije
+[[4]] Informacje se uspešno prenašajo od èlanov preko prostovoljcev do naèelnika ter naprej do obmoèja in Zveze tabornikov Slovenije
+{07-04} Sestankovanje [5]
+[[0]] Sestanki niso vodeni in nimajo jasnih zakljuèkov.
+[[1]] Sestanki so slabše vodeni, nimajo v naprej znanih ciljev in èasovnice, imajo zakljuèke, vendar zapisnik ne obstaja.
+[[2]] Sestanki so vodeni, vendar nimajo v naprej znanih ciljev ali èasovnice. Vseeno ima sestanek zakljuèke in obstaja zapisnik.
+[[3]] Sestanki so vodeni, cilji in èasovnica so v naprej znani, vendar se jim na sestanku ne sledi. Vseeno pa ima sestanek zakljuèke in obstaja zapisnik.
+[[4]] Vsi sestanki so vodeni s strani odgovorne osebe, cilji in èasovnica sestanka so v naprej znani, na sestanku se jim sledi, sestanek ima zakljuèke, obstaja zapisnik sestanka
+{07-05} Spletna stran [4]
+[[0]] Rod nima spletne strani
+[[2]] Rod ima spletno stran, vendar ni ažurna.
+[[4]] Rod ima urejeno in ažurno spletno stran
+{07-06} Javno dostopni dokumenti [1]
+[[0]] Noben dokument ni dostopen širši javnosti.
+[[3]] Uradni zapisniki sej rodove uprave ter zapisnik obènega zbora so javno dostopni.
+[[4]] Uradni zapisniki sej rodove uprave, zapisnik obènega zbora ter finanèna poroèila (kot za AJPES) so javno dostopni.
+{07-07} Komunikacija med prostovoljci, èlani in starši [4]
+[[0]] S ciljnimi skupinami se ne komunicira preko medijskih kanalov
+[[1]] Za komunikacijo s ciljnimi skupinami se uporabljajo nedogovorjeni kanali, na neuèinkovit naèin. Vsaj z eno od skupin se ne komunicira.
+[[2]] Za komunikacijo se uporabljajo nedogovorjeni medijski kanali, na neuèinkovit naèin.
+[[3]] Za komunikacijo z vsemi tremi skupinami se uporabljajo nedogovorjeni medijski kanali, ki so (delno) uèinkoviti.
+[[4]] Za komunikacijo z vsemi tremi ciljnimi skupinami se uporabljajo dogovorjeni medijski kanali na uèinkovit naèin.
+{07-08} Pravoèasno obvešèanje [3]
+[[0]] Obvešèanje ni pravoèasno in ni sistematièno organizirano.
+[[2]] Obvešèanje poteka z uporabo uèinkovitih in dogovorjenih orodij, vendar zaradi nesistematiènosti ni vedno pravoèasno.
+[[3]] Obvešèanje poteka pravoèasno, vendar ni sistematièno organizirano.
+[[4]] Obvešèanje poteka sistematièno, pravoèasno in z uporabo uèinkovitih orodij.
+{07-09} Dostop do dokumentov (zapisniki sestankov, poroèila akcij, letni plani, tabela prisotnosti idr.) [5]
+[[0]] Dokumenti niso na enem mestu, pravice do dostopa niso primerno urejene.
+[[1]] Dokumenti so na enotnem mestu, vendar so neurejeni in pravice do dostopa niso primerno urejene.
+[[2]] Dokumenti so urejeni na enem mestu, pravice do dostopa niso primerno urejene in dokumenti niso ažurni
+[[3]] Dokumenti so na enem mestu, pravice do dostopa so primerno urejene, vendar so dokumenti neurejeni
+[[4]] Prostovoljci imajo urejeno mesto v oblaku, pravice do dostopa so primerno urejene in dokumenti ažurno naloženi.
+{07-10} Skladnost z GDPR [4]
+[[0]] Rod deluje neskladno z direktivo GDPR oz. direktive ne poznamo.
+[[2]] Rod poskuša delovati skladno z direktivo GDPR. Neskladja odpravimo naknadno.
+[[4]] O možnih neskladjih z GDPR se rod vedno predhodno pozanima in delovanje primerno uskladi.
+{07-11} Izjave o varovanju osebnih podatkov [4]
+[[0]] Prostovoljci v rodu nimajo podpisane izjave o varovanju osebnih podatkov
+[[2]] Nekateri prostovoljci v rodu imajo podpisano izjavo o varovanju osebnih podatkov
+[[4]] Vsi prostovoljci v rodu imajo podpisano izjavo o varovanju osebnih podatkov
+{07-12} Koledar [3]
+[[0]] Rod nima koledarja
+[[1]] Rod ima koledar akcij, ki so namenjene èlanom rodu. V koledarju manjkajo posveti, izobraževanja, akcije, roki poroèil in razpisov
+[[2]] Rod ima izdelan koledar za pol leta naprej
+[[3]] Rod ima letni koledar vseh taborniških akcij in izobraževanj, v koledarju pa manjkajo roki za poroèia in razpise, idr.
+[[4]] Rod ima letni koledar rodovih akcij, posvetov, izobraževanj, roki poroèil in razpisov, idr.
+{07-13} Fotografije z akcij [3]
+[[0]] Rod fotografij ne zbira in objavlja sistematièno
+[[2]] Rod fotografije ne zbira sistematièno, vendar zbrano vseeno shranjuje na enotnem mestu.
+[[4]] Rod ima vsaj 10 kvalitetnih fotografij iz vsake rodove akcije, jih shranjuje na enotnem mestu in ažurno objavlja preko dogovorjenih kanalov..
+{07-14} Dovoljenje za uporabo fotografij [2]
+[[0]] Èlani rodu nimajo podpisane izjave o uporabi fotografij, na katerih so prikazani, za potrebe rodu
+[[1]] Nekateri èlani rodu imajo podpisano izjavo o uporabi fotografij, na katerih so prikazani, za potrebe rodu.
+[[4]] Vsi èlani rodu imajo podpisano izjavo o uporabi fotografij, na katerih so prikazani, za potrebe rodu.
+{07-15} Rodovo glasilo [1]
+[[0]] Rod ne izdaja glasila.
+[[3]] Rod izdaja glasilo, vendar neredno.
+[[4]] Rod redno izdaja rodovo glasilo (lahko spletno)
+{07-16} Rod ima rodovega propagandista [1]
+[[0]] Ne.
+[[2]] Za propagando vsake od veèjih rodovih akcij je odgovorna doloèena oseba.
+[[4]] Da.
+{07-17} Sodelovanje z revijo Tabor [2]
+[[0]] Rod ne sodeluje z revijo Tabor.
+[[2]] Rod z revijo Tabor sodeluje 1-2 krat na leto.
+[[4]] Rod redno sodeluje z revijo Tabor.
+{07-18} Lokalni mediji [1]
+[[0]] Rod nima objav v lokalnih medijih.
+[[4]] Rod ima vsaj 1 objavo v lokalnih medijih na leto.
+{07-19} Seznam zunanjih partnerjev [1]
+[[0]] Rod nima urejenega seznama zunanjih partnerjev.
+[[2]] Rod ima seznam zunanjih partnerjev, vendar ni ažuren.
+[[3]] Rod ima urejen ažuren seznam zunanjih partnerjev
+[[4]] Rod ima urejen ažuren seznam zunanjih partnerjev, ki jih redno obvešèa o svojih pomembnih dejavnostih
+{07-20} Komunikacija z zunanjimi javnostmi (druge organizacije, lokalna skupnost, starši neèlanov rodu…) [2]
+[[0]] Na komunikacijo z zunanjimi javnostmi se ne odzivamo.
+[[2]] Na komunikacijo z zunanjimi javnostmi se odzovemo samo, ko je to za nas neposredno koristno.
+[[4]] Odzovemo se na vso komunikacijo, tudi èe je naš odgovor negativen in za nas ne predstavlja direktne koristi.
+{08} Delovanje v lokalnem okolju
+{08-01} Dokument o delovanju v lokalni skupnosti [1]
+[[0]] Nimamo dokumenta o delovanju v lokalni skupnosti.
+[[2]] Imamo dokument, vendar ni aktualen.
+[[4]] Imamo dokument, ki ga pregledamo in uskladimo ob menjavi naèelnika ali starešine.
+{08-02} Participacija na dogodkih v lokalnem okolju in sodelovanje z zunanjimi organizacijami [3]
+[[0]] Na dogodkih v lokalnem okolju ne participiramo. Z zunanjimi organizacijami ne sodelujemo.
+[[1]] Ker nimamo dogovora, se udeležimo vseh dogodkov, na katere smo povabljeni in sodelujemo s komerkoli.
+[[2]] Imamo sprejet dogovor na katerih dogodkih participiramo in s katerimi zunanjimi organizacijami.
+[[3]] Imamo dogovor na katerih dogodkih in s katerimi organizacijami letno sodelujemo. Dogovor letno obnavljamo.
+[[4]] Imamo dogovorjen proces, kako se odloèamo glede participacije in sodelovanj. Imamo dogovor na katerih dogodkih in s kom letno sodelujemo. Dogovor letno obnavljamo.
+{08-03} Lokalna mladinska politika [2]
+[[0]] Rod se ne ukvarja z lokalno mladinsko politiko.
+[[2]] Rod se priložnostno ukvarja z vprašanji mladinske politike v lokalnem okolju.
+[[3]] Rod se redno in aktivno ukvarja o aktualni mladinski politiki v lokalnem okolju.
+[[4]] Rod ima predstavnika v odloèevalski ali posvetovalni strukturi mladinske politike (mladinski svet, krajevna skupnost, odbor za mlade, obèinski svet…)
+{08-04} Merjenje javne podobe [1]
+[[0]] Javne podobe ne merimo.
+[[3]] Poznamo mnenje lokalne skupnosti o svojem delovanju, vendar ga zbiramo na neformalen ali nesistematièen naèin.
+[[4]] Aktivno in sistematièno nabiramo povratne informacije o svoji podobi v lokalni skupnosti. Zbiramo in shranjujemo pojavljanje rodu v medijih.
+{08-05} Enkrat na leto organiziramo dogodek v lokalni skupnosti, ki se ga lahko udeleži kdorkoli [1]
+[[0]] Ne
+[[4]] Da
+{09} Vzdušje in pripadnost
+{09-01} Vrednotenje poèutja [5]
+[[0]] Poèutja èlanov in prostovoljcev se ne vrednoti.
+[[2]] Redno se vrednoti poèutje èlanov ali prostovoljcev, pri èemer se išèe vzroke za slabo in dobro poèutje.
+[[4]] Redno se vrednoti poèutje èlanov in prostovoljcev, pri èemer se išèe vzroke za slabo in dobro poèutje.
+{09-02} Dobro poèutje [4]
+[[0]] Vodstvo rodu skrb za dobro vzdušje prepušèa posameznikom in/ali nakljuèju.
+[[2]] Za dosego dobrega poèutja prostovoljcev je namenjeno zgolj dovolj prostega èasa ali sredstev.
+[[4]] Za doseganje dobrega poèutja prostovoljcev je namenjega dovolj prostega èasa in sredstev.
+{09-03} Prepoznavni znaki [3]
+[[0]] Rod nima oblikovanih svojih prepoznavnih znakov.
+[[2]] Rod ima oblikovan svoj znak in grb.
+[[4]] Rod ima oblikovane tudi druge insignije (logo, moto, himna, slogane, artikle…)
+{09-04} Šege in navade [2]
+[[0]] Rod se ne trudi za izvajanje šeg in navad. Rod izvaja neprimerne šege in navade.
+[[2]] Rod skrbi za izvajanje primernih šeg in navad.
+[[4]] Rod skrbi za oblikovanje in izvajanje lastnih in primernih šeg in navad.
